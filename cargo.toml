@@ -1,0 +1,13 @@
+[package]
+name="symrust"
+version="0.1.0"
+edition="2021"
+authors = ["Andrew Brunker <andrew@brunker.au>"]
+license = "Apache-2.0"
+readme = "README.md"
+keywords = ["file", "fs", "symlink", "cli"]
+categories = ["filesystem"]
+repository = "https://github.com/ElCapitanSponge/symrust"
+
+[dependencies]
+symlink = "0.1.0"

@@ -1,2 +1,2 @@
 # symrust
-Multiplatform utility to create symbolic links
+Multiplatform cli utility to create symbolic links
